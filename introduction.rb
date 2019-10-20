@@ -1,4 +1,4 @@
-def introduction Josh, 
-  puts "Hi, my name is [name]"
+def introduction Josh, Dan
+  puts "Hi, my name is Josh"
 end
-print introduction (name = Josh)
+print introduction
