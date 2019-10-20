@@ -1,4 +1,4 @@
-def introduction Josh
-  print "Hi, my name is Josh"
+def introduction (Hi, my name is [name])
+  name = Josh
 end
 print introduction
