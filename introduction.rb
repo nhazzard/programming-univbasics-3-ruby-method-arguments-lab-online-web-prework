@@ -1,4 +1,4 @@
 def introduction
-  puts "Hi, my name is{name}"
+  print "Hi, my name is{name}"
 end
-name = Josh
+introduction name = Josh
